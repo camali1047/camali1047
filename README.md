@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali CAM</h1>
-<h3 align="center">I`am web developer in USA.</h3>
+<h3 align="center">I`am web/software developer in USA.</h3>
 
 - 📫 How to reach me **camali1820@gmail.com**
 
